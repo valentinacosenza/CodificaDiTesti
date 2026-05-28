@@ -1,8 +1,8 @@
 # Codifica di Testi
 
-Il progetto contenuto in questo repository è stato realizzato per l'esame di Codifica di Testi
-del Corso di Laurea Triennale in Informatica Umanistica con il professor Angelo Mario Del Grosso
-da Valentina Cosenza.
+Il progetto contenuto in questo repository è stato realizzato per l'esame di **Codifica di Testi**
+del Corso di Laurea Triennale in **Informatica Umanistica** con il professor *Angelo Mario Del Grosso*
+da *Valentina Cosenza*.
 
 Il progetto è stato validato con Xerces versione 2.12.2 e i file XML e XSL sono stati trasformati
 con Saxon HE 12.9 in un file HTML.
