@@ -15,7 +15,7 @@ java -cp "tools/xerces-2_12_2/xml-apis.jar;tools/xerces-2_12_2/xercesImpl.jar;to
 
 Risultato: 
 
-progetto.xml: 224;25;0 ms (2713 elems, 8980 attrs, 28685 spaces, 81694 chars)
+`progetto.xml: 224;25;0 ms (2713 elems, 8980 attrs, 28685 spaces, 81694 chars)`
 
 ## Comando per la trasformazione con Saxon HE 12.9
 
