@@ -23,6 +23,6 @@ Risultato:
 java -jar tools/SaxonHE12-9J/saxon-he-12.9.jar -s:progetto.xml -xsl:progetto.xsl -o:output.html
 ```
 
-Risultato:
+### Risultato:
 
 Il file HTML chiamato `output.html`.
